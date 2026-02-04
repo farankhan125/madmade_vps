@@ -1,0 +1,22 @@
+questions = [
+    "How did Madmade start?",
+    "Who founded Madmade?",
+    "What inspired the creation of Madmade?",
+    "What makes Madmade unique?",
+    "What is Madmade's tagline?",
+    "What is Madmade's brand vision?",
+    "What are Madmade's brand values?",
+    "What is Madmade's brand purpose?",
+    "How does AI contribute to Madmade's merchandise?",
+    "What storytelling elements does Madmade use?",
+    "What does 'story before product' mean in the context of Madmade?",
+    "How does Madmade incorporate collaboration into its brand?",
+    "What is the email contact for Madmade?",
+    "What is Madmade's phone number?",
+    "Which social media platforms is Madmade planning to be on?",
+    "Where is Madmade located?",
+    "What kind of people is Madmade designed for?",
+    "What themes inspire Madmade collections?",
+    "What is the purpose of the AI-generated animation in each collection?",
+    "How did Madmade evolve from an internal experiment into a brand?"
+]
